@@ -1,0 +1,6 @@
+title: Minimal theme
+logo: logo.png
+description: My personal portfolio page
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-minimal
