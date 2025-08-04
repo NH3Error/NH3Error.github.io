@@ -19,13 +19,14 @@
   <a href="https://www.facebook.com/abrahampenarubia/" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-
-  <a href="mailto:abrahampenarubia@gmail.com">
-  <img src="https://img.shields.io/badge/Email-abrahampenarubia@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <br>
 
   <a href="https://drive.google.com/file/d/1iVRxhw7VYnzw8PO3nvvQNCEH68LO7JdA/view?usp=sharing" target="_blank">
   <img src="https://img.shields.io/badge/Resume-Google%20Drive-34A853?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
+  </a>
+
+  <a href="mailto:abrahampenarubia@gmail.com">
+  <img src="https://img.shields.io/badge/Email-abrahampenarubia@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
   </div>
