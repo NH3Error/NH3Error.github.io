@@ -15,8 +15,7 @@
     <a href="https://linkedin.com/in/abrahampenarubia">
       <img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-
-    <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2c8bbb46-267a-4ba7-9e0a-2d252246a1e0" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+    
   </div>
 
 </div>
@@ -64,47 +63,47 @@ Summary: Graduated with a Bachelor of Science in Information Technology and is c
   </a>
 
   <!-- HTB CDSA -->
-  <a href="https://www.hackthebox.com/certificates/your-cdsa-cert-id">
+  <a href="https://www.credly.com/badges/87f00bb9-785a-4fa4-8c6a-1dde7b319503">
     <img src="https://img.shields.io/badge/-HTB%20CDSA-006400?&style=for-the-badge&logo=HackTheBox&logoColor=white" />
   </a>
 
   <!-- Cisco CCNA -->
-  <a href="https://www.credly.com/badges/your-ccna-badge-id">
+  <a href="https://www.credly.com/badges/282c29db-dc45-4053-be4e-c19d65e97b2c">
     <img src="https://img.shields.io/badge/-CCNA-1D63ED?&style=for-the-badge&logo=Cisco&logoColor=white" />
   </a>
 
   <!-- CompTIA Security+ -->
-  <a href="https://www.credly.com/badges/your-securityplus-badge-id">
+  <a href="https://www.credly.com/badges/614649de-68a6-4cd5-985e-e11dd7f4491e">
     <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
   </a>
 
   <!-- CompTIA Network+ -->
-  <a href="https://www.credly.com/badges/your-networkplus-badge-id">
+  <a href="https://www.credly.com/badges/0610f5de-d9c7-4090-ac73-7146d3f156dd">
     <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
   </a>
 
   <!-- CompTIA A+ -->
-  <a href="https://www.credly.com/badges/your-aplus-badge-id">
+  <a href="https://www.credly.com/badges/618d11a9-8514-4551-bc31-4d16981fbfbd">
     <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
   </a>
 
   <!-- CompTIA ITF+ -->
-  <a href="https://www.credly.com/badges/your-itfplus-badge-id">
+  <a href="https://www.credly.com/badges/6c530230-02e6-4e19-a893-1986a0eef50e">
     <img src="https://img.shields.io/badge/-ITF%2B-00BFFF?style=for-the-badge&logo=CompTIA&logoColor=white" />
   </a>
 
   <!-- Google IT Support -->
-  <a href="https://www.coursera.org/account/accomplishments/certificate/your-google-it-cert-id">
+  <a href="https://www.credly.com/badges/eb98b073-9f5c-432b-b282-d1a87a294984">
     <img src="https://img.shields.io/badge/-Google%20IT%20Support-4285F4?style=for-the-badge&logo=Google&logoColor=white" />
   </a>
 
   <!-- Google Cybersecurity -->
-  <a href="https://www.coursera.org/account/accomplishments/certificate/your-google-cyber-cert-id">
+  <a href="https://www.credly.com/badges/6e1776e8-deb5-4da0-99ff-f4bcbfcb27bc">
     <img src="https://img.shields.io/badge/-Google%20Cybersecurity-34A853?style=for-the-badge&logo=Google&logoColor=white" />
   </a>
 
   <!-- Fortinet FCAC -->
-  <a href="https://training.fortinet.com/local/staticpage/view.php?page=certifications">
+  <a href="https://www.credly.com/badges/2c8bbb46-267a-4ba7-9e0a-2d252246a1e0">
     <img src="https://img.shields.io/badge/-Fortinet%20FCAC-C41E3A?style=for-the-badge&logo=Fortinet&logoColor=white" />
   </a>
 </div>
