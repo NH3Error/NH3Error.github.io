@@ -19,8 +19,7 @@
 
 </div>
 
-
-Graduated with a Bachelor of Science in Information Technology and is currently working as an IT Administrator at a financial institution. Actively transitioning into cybersecurity roles, with a focus on Blue Team operations.
+Summary: Graduated with a Bachelor of Science in Information Technology and is currently working as an IT Administrator at a financial institution. Actively transitioning into cybersecurity roles, with a focus on Blue Team operations.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
