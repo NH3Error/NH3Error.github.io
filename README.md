@@ -1,5 +1,21 @@
 # Hello, I'm Abraham Peñarubia | Cybersecurity Portfolio
-<a href="https://linkedin.com/in/abrahampenarubia"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+<!-- Portfolio Button (GitHub style) -->
+<a href="https://nh3error.github.io/portfolio2025">
+  <img src="https://img.shields.io/badge/-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<!-- Medium Button -->
+<a href="https://medium.com/@abrahampenarubia">
+  <img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
+
+<!-- LinkedIn Button -->
+<a href="https://linkedin.com/in/abrahampenarubia">
+  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+
 
 Graduated with a Bachelor of Science in Information Technology and is currently working as an IT Administrator at a financial institution. Actively transitioning into cybersecurity roles, with a focus on Blue Team operations.
 
