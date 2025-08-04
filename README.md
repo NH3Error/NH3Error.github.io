@@ -54,13 +54,52 @@ Summary: Graduated with a Bachelor of Science in Information Technology and is c
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+  <!-- CompTIA Security+ -->
+  <a href="https://www.credly.com/badges/your-securityplus-badge-id">
+    <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+  </a>
+
+  <!-- CompTIA Network+ -->
+  <a href="https://www.credly.com/badges/your-networkplus-badge-id">
+    <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+  </a>
+
+  <!-- CompTIA A+ -->
+  <a href="https://www.credly.com/badges/your-aplus-badge-id">
+    <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+  </a>
+
+  <!-- Cisco CCNA -->
+  <a href="https://www.credly.com/badges/your-ccna-badge-id">
+    <img src="https://img.shields.io/badge/-CCNA-1D63ED?&style=for-the-badge&logo=Cisco&logoColor=white" />
+  </a>
+
+  <!-- Google IT Support -->
+  <a href="https://www.coursera.org/account/accomplishments/certificate/your-google-it-cert-id">
+    <img src="https://img.shields.io/badge/-Google%20IT%20Support-4285F4?style=for-the-badge&logo=Google&logoColor=white" />
+  </a>
+
+  <!-- Google Cybersecurity -->
+  <a href="https://www.coursera.org/account/accomplishments/certificate/your-google-cyber-cert-id">
+    <img src="https://img.shields.io/badge/-Google%20Cybersecurity-34A853?style=for-the-badge&logo=Google&logoColor=white" />
+  </a>
+
+  <!-- HTB Certified Defensive Security Analyst -->
+  <a href="https://www.hackthebox.com/certificates/your-cdsa-cert-id">
+    <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logo=HackTheBox&logoColor=white" />
+  </a>
+
+  <!-- HTB Certified Cyber Defender (Planned or Placeholder) -->
+  <a href="https://www.hackthebox.com/academy/certificates/ccd">
+    <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logo=HackTheBox&logoColor=white" />
+  </a>
+
+  <!-- Microsoft SC-200 (In Progress) -->
+  <a href="https://learn.microsoft.com/en-us/certifications/exams/sc-200/">
+    <img src="https://img.shields.io/badge/-SC--200%20(In%20Progress)-0078D4?style=for-the-badge&logo=Microsoft&logoColor=white" />
+  </a>
 </div>
 
 ## Projects
