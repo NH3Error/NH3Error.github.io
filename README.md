@@ -1,5 +1,8 @@
 # Hello, I'm Abraham Peñarubia | Cybersecurity Portfolio
 
+  <!-- Right side: Profile Picture -->
+  <img class="profile-pic" src="https://i.imgur.com/oqgSPyFt.jpeg" alt="Profile Picture" />
+
 <div class="container">
   <!-- Left side: Buttons -->
   <div class="buttons">
@@ -13,9 +16,6 @@
       <img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
   </div>
-
-  <!-- Right side: Profile Picture -->
-  <img class="profile-pic" src="https://i.imgur.com/oqgSPyFt.jpeg" alt="Profile Picture" />
 
 </div>
 
