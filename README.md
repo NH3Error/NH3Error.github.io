@@ -1,19 +1,22 @@
 # Hello, I'm Abraham Peñarubia | Cybersecurity Portfolio
 
-<!-- Portfolio Button (GitHub style) -->
-<a href="https://nh3error.github.io/portfolio2025">
-  <img src="https://img.shields.io/badge/-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<div class="container">
+  <!-- Left side: Buttons -->
+  <div class="buttons">
+    <a href="https://nh3error.github.io/portfolio2025">
+      <img src="https://img.shields.io/badge/-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    <a href="https://medium.com/@abrahampenarubia">
+      <img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+    </a>
+    <a href="https://linkedin.com/in/abrahampenarubia">
+      <img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+  </div>
 
-<!-- Medium Button -->
-<a href="https://medium.com/@abrahampenarubia">
-  <img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=large&logoColor=white" />
-</a>
-
-<!-- LinkedIn Button -->
-<a href="https://linkedin.com/in/abrahampenarubia">
-  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+  <!-- Right side: Profile Picture -->
+  <img class="profile-pic" src="your-profile-picture.jpg" alt="Profile Picture" />
+</div>
 
 
 Graduated with a Bachelor of Science in Information Technology and is currently working as an IT Administrator at a financial institution. Actively transitioning into cybersecurity roles, with a focus on Blue Team operations.
