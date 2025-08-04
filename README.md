@@ -15,7 +15,7 @@
   </div>
 
   <!-- Right side: Profile Picture -->
-  <img class="profile-pic" src="https://i.imgur.com/oqgSPyFl.jpeg" alt="Profile Picture" />
+  <img class="profile-pic" src="https://i.imgur.com/oqgSPyFm.jpeg" alt="Profile Picture" />
 
 </div>
 
