@@ -25,7 +25,7 @@ Graduated with a Bachelor of Science in Information Technology and is currently 
 
 ## Skills
 
-| 🛠️ Skills                     | 📁 Associated Project         |
+| 🛠️ Skill                     | 📁 Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
