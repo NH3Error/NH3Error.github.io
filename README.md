@@ -15,6 +15,8 @@
     <a href="https://linkedin.com/in/abrahampenarubia">
       <img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
+
+    <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2c8bbb46-267a-4ba7-9e0a-2d252246a1e0" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
   </div>
 
 </div>
