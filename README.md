@@ -15,7 +15,10 @@
   </div>
 
   <!-- Right side: Profile Picture -->
-  <img class="profile-pic" src="your-profile-picture.jpg" alt="Profile Picture" />
+  <img class="profile-pic" src="https://i.imgur.com/oqgSPyF.jpeg" alt="Profile Picture" />
+  
+  <blockquote class="imgur-embed-pub" lang="en" data-id="oqgSPyF"><a href="https://imgur.com/oqgSPyF">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
 </div>
 
 
