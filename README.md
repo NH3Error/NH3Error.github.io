@@ -15,7 +15,11 @@
     <a href="https://linkedin.com/in/abrahampenarubia">
       <img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    
+
+  <a href="https://www.facebook.com/abrahampenarubia/" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+
   </div>
 
 </div>
