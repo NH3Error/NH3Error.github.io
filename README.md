@@ -1,7 +1,7 @@
-# Hello, I'm Abraham Peñarubia | Cybersecurity Portfolio
+# Hello, I'm Abraham Peñarubia | Cybersecurity Portfolio - August 2025
 
   <!-- Right side: Profile Picture -->
-  <img class="profile-pic" src="https://i.imgur.com/oqgSPyFt.jpeg" alt="Profile Picture" />
+<img class="profile-pic" src="https://i.imgur.com/oqgSPyFt.jpeg" alt="Profile Picture" />
 
 <div class="container">
   <!-- Left side: Buttons -->
@@ -96,7 +96,6 @@ Graduated with a Bachelor of Science in Information Technology and is currently 
     <img src="https://img.shields.io/badge/-Fortinet%20FCAC-C41E3A?style=for-the-badge&logo=Fortinet&logoColor=white" />
   </a>
 </div>
-
 
 ## Projects
 - Detection Lab
