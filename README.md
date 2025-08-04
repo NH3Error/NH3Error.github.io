@@ -20,8 +20,10 @@
 
 </div>
 
-Summary: Graduated with a Bachelor of Science in Information Technology and is currently working as an IT Administrator at a financial institution. Actively transitioning into cybersecurity roles, with a focus on Blue Team operations.
+## Summary
+Graduated with a Bachelor of Science in Information Technology and is currently working as an IT Administrator at a financial institution. Actively transitioning into cybersecurity roles, with a focus on Blue Team operations.
 
+## Projects
 | Cybersecurity Portfolios                      | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
