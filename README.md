@@ -25,7 +25,7 @@ Graduated with a Bachelor of Science in Information Technology and is currently 
 
 ## Projects
 
-| Cybersecurity Portfolios                      | Associated Project         |
+| 🛠️ Skills                     | 📁 Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
@@ -45,7 +45,7 @@ Graduated with a Bachelor of Science in Information Technology and is currently 
 
 ## Certifications
 
-| 🛡️ Certification                             | Badge / Link                                                                                              | Validity                    |
+| 🛡️ Certification                             | 🔖 Badge / 🔗 Link                                                                                              | 📅 Validity                    |
 |---------------------------------------------|------------------------------------------------------------------------------------------------------------|-----------------------------|
 | Microsoft SC-200 (In Progress)              | <a href="https://learn.microsoft.com/en-us/certifications/exams/sc-200/"><img src="https://img.shields.io/badge/-SC--200%20(In%20Progress)-0078D4?style=for-the-badge&logo=Microsoft&logoColor=white" /></a> | N/A                         |
 | HTB Certified Defensive Security Analyst    | <a href="https://www.credly.com/badges/87f00bb9-785a-4fa4-8c6a-1dde7b319503"><img src="https://img.shields.io/badge/-HTB%20CDSA-006400?&style=for-the-badge&logo=HackTheBox&logoColor=white" /></a> | January 24, 2025 – ∞             |
