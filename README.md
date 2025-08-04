@@ -7,7 +7,7 @@
 
 <!-- Medium Button -->
 <a href="https://medium.com/@abrahampenarubia">
-  <img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=small&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=large&logoColor=white" />
 </a>
 
 <!-- LinkedIn Button -->
