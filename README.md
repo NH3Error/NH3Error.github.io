@@ -50,6 +50,14 @@
 ## Summary
 Graduated with a Bachelor of Science in Information Technology and is currently working as an IT Administrator at a financial institution. Actively transitioning into cybersecurity roles, with a focus on Blue Team operations.
 
+## Work Experiences
+
+| 🏢 Company                                   | 🧑‍💻 Position         | 📍 Location           | 📅 Date             |
+|---------------------------------------------|----------------------|-----------------------|---------------------|
+| **Lulu Financial Services (Phils.) Inc.**    | IT Administrator     | Taguig, Philippines   | November 2023 – Present  |
+| **R.A. Gapuz Review Center**               | IT Assistant         | Manila, Philippines   | September 2022 – March 2023 |
+
+
 ## Skills
 
 | 🛠️ Skill                     | 📁 Associated Project         |
