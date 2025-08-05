@@ -21,10 +21,8 @@
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 
-  <a href="https://tipidpc.com/ratings.php?username=r2xDxD" target="_blank">
-  <button style="padding: 10px 20px; font-size: 16px; background-color: #333; color: white; border: none; border-radius: 5px; cursor: pointer;">
-    View my TIPIDPC Ratings
-  </button>
+  <a href="https://tipidpc.com/ratings.php?username=r2xDxD">
+  <img src="https://img.shields.io/badge/TIPIDPC-Ratings-green?style=for-the-badge&logo=trustpilot&logoColor=white" />
   </a>
 
   <br>
