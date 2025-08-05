@@ -58,7 +58,7 @@ Graduated with a Bachelor of Science in Information Technology and is currently 
 | **R.A. Gapuz Review Center**                 | IT Assistant         | Manila, Philippines   | September 2022 – March 2023  | [https://www.raygapuzreviewsystem.com](https://www.raygapuzreviewsystem.com/) |
 
 
-## 🛠️ Skills In Progress
+## Skills
 
 I’m currently building hands-on projects around the following core skills. These will be added to my GitHub soon to showcase real-world scenarios, detection techniques, and automation capabilities. Thank you for your patience.
 
@@ -94,7 +94,7 @@ I’m currently building hands-on projects around the following core skills. The
 | Google Cybersecurity                        | <a href="https://www.coursera.org/account/accomplishments/professional-cert/WL6M3BW7ZRAA"><img src="https://img.shields.io/badge/-Google%20Cybersecurity-34A853?style=for-the-badge&logo=Google&logoColor=white" /></a> | February 4, 2025 – ∞                     | Practical course. Learned SOC tools, threat detection, and hands-on analysis.         |
 | Google IT Support                           | <a href="https://www.coursera.org/account/accomplishments/professional-cert/JVJF6DZTALFQ"><img src="https://img.shields.io/badge/-Google%20IT%20Support-4285F4?style=for-the-badge&logo=Google&logoColor=white" /></a> | September 12, 2023 – ∞                     | Reinforced IT support, customer service, and ticketing practices.                     |
 
-## 🚧 Projects
+## Projects
 
 | 🧪 Project | 🔍 Description | 🔗 Link |
 |-----------|----------------|--------|
