@@ -25,6 +25,15 @@
   <img src="https://img.shields.io/badge/TryHackMe-NH3Error-red?style=for-the-badge&logo=tryhackme&logoColor=white" />
   </a>
 
+  <a href="https://app.hackthebox.com/profile/2052578" target="_blank">
+  <img src="https://img.shields.io/badge/Hack%20The%20Box-NH3Error-121212?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" />
+</a>
+
+<a href="https://tryhackme.com/p/NH3Error" target="_blank">
+  <img src="https://img.shields.io/badge/TryHackMe-NH3Error-2C2C2C?style=for-the-badge&logo=tryhackme&logoColor=FF1F1F" />
+</a>
+
+
   <a href="https://tipidpc.com/ratings.php?username=r2xDxD">
   <img src="https://img.shields.io/badge/TIPIDPC-Ratings-green?style=for-the-badge&logo=trustpilot&logoColor=white" />
   </a>
