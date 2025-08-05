@@ -57,7 +57,6 @@ Graduated with a Bachelor of Science in Information Technology and is currently 
 | **Lulu Financial Services (Phils.) Inc.**    | IT Administrator     | Taguig, Philippines   | November 2023 – Present      | [https://www.lulumoney.com.ph](https://www.lulumoney.com.ph/) |
 | **R.A. Gapuz Review Center**                 | IT Assistant         | Manila, Philippines   | September 2022 – March 2023  | [https://www.raygapuzreviewsystem.com](https://www.raygapuzreviewsystem.com/) |
 
-
 ## Skills
 
 I’m currently building hands-on projects around the following core skills. These will be added to my GitHub soon to showcase real-world scenarios, detection techniques, and automation capabilities. Thank you for your patience.
@@ -69,6 +68,14 @@ I’m currently building hands-on projects around the following core skills. The
 | Network Traffic Monitoring & Attack Detection| Coming Soon                      | Coming Soon      |
 | Microsoft Security (Sentinel, Defender, etc.)| Coming Soon                      | Coming Soon      |
 | Scripting & Automation for Threat Mitigation | Coming Soon                      | Coming Soon      |
+
+## Projects
+
+| 🧪 Project | 🔍 Description | 🔗 Link |
+|-----------|----------------|--------|
+| SOC Automation Lab | Simulated a SOC workflow with Shuffle SOAR, TheHive, and Cortex | [Coming Soon](#) |
+| Detection Lab | Setup SIEM tools (Splunk/ELK) and performed log analysis | [Coming Soon](#) |
+| Phishing Simulation | Simulated a phishing attack chain in Microsoft environment | [Coming Soon](#) |
 
 ## Tools
 
@@ -93,11 +100,3 @@ I’m currently building hands-on projects around the following core skills. The
 | CompTIA IT Fundamentals+                    | <a href="https://www.certmetrics.com/comptia/public/verification.aspx?code=CTSZ0QV018L6V0C7"><img src="https://img.shields.io/badge/-ITF%2B-00BFFF?style=for-the-badge&logo=CompTIA&logoColor=white" /></a> | September 12, 2023 – ∞                   | Foundation course. Covered basic IT concepts, software dev, and networking.           |
 | Google Cybersecurity                        | <a href="https://www.coursera.org/account/accomplishments/professional-cert/WL6M3BW7ZRAA"><img src="https://img.shields.io/badge/-Google%20Cybersecurity-34A853?style=for-the-badge&logo=Google&logoColor=white" /></a> | February 4, 2025 – ∞                     | Practical course. Learned SOC tools, threat detection, and hands-on analysis.         |
 | Google IT Support                           | <a href="https://www.coursera.org/account/accomplishments/professional-cert/JVJF6DZTALFQ"><img src="https://img.shields.io/badge/-Google%20IT%20Support-4285F4?style=for-the-badge&logo=Google&logoColor=white" /></a> | September 12, 2023 – ∞                     | Reinforced IT support, customer service, and ticketing practices.                     |
-
-## Projects
-
-| 🧪 Project | 🔍 Description | 🔗 Link |
-|-----------|----------------|--------|
-| SOC Automation Lab | Simulated a SOC workflow with Shuffle SOAR, TheHive, and Cortex | [Coming Soon](#) |
-| Detection Lab | Setup SIEM tools (Splunk/ELK) and performed log analysis | [Coming Soon](#) |
-| Phishing Simulation | Simulated a phishing attack chain in Microsoft environment | [Coming Soon](#) |
