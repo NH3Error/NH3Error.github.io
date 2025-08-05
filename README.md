@@ -73,9 +73,9 @@ I’m currently building hands-on projects around the following core skills. The
 
 | 🧪 Project | 🔍 Description | 🔗 Link |
 |-----------|----------------|--------|
-| SOC Automation Lab | Simulated a SOC workflow with Shuffle SOAR, TheHive, and Cortex | [Coming Soon](#) |
-| Detection Lab | Setup SIEM tools (Splunk/ELK) and performed log analysis | [Coming Soon](#) |
-| Phishing Simulation | Simulated a phishing attack chain in Microsoft environment | [Coming Soon](#) |
+| SOC Automation Lab | Simulated a SOC workflow with Shuffle SOAR, TheHive, and Cortex | Coming Soon |
+| Detection Lab | Setup SIEM tools (Splunk/ELK) and performed log analysis | Coming Soon |
+| Phishing Simulation | Simulated a phishing attack chain in Microsoft environment | Coming Soon |
 
 ## Tools
 
