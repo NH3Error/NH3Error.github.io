@@ -63,19 +63,19 @@ I’m currently building hands-on projects around the following core skills. The
 
 | 🛠️ Skill                                     | 📁 Associated Project           | ⏳ Status        |
 |---------------------------------------------|----------------------------------|------------------|
-| Email Security & Phishing Triage             | Coming Soon                      | Coming Soon      |
-| SIEM Implementation and Log Analysis         | Coming Soon                      | Coming Soon      |
-| Network Traffic Monitoring & Attack Detection| Coming Soon                      | Coming Soon      |
-| Microsoft Security (Sentinel, Defender, etc.)| Coming Soon                      | Coming Soon      |
-| Scripting & Automation for Threat Mitigation | Coming Soon                      | Coming Soon      |
+| Email Security & Phishing Triage             | In progress                      | In progress      |
+| SIEM Implementation and Log Analysis         | In progress                      | In progress      |
+| Network Traffic Monitoring & Attack Detection| In progress                      | In progress      |
+| Microsoft Security (Sentinel, Defender, etc.)| In progress                      | In progress      |
+| Scripting & Automation for Threat Mitigation | In progress                      | In progress      |
 
 ## Projects
 
 | 🧪 Project | 🔍 Description | 🔗 Link |
 |-----------|----------------|--------|
-| SOC Automation Lab | Simulated a SOC workflow with Shuffle SOAR, TheHive, and Cortex | Coming Soon |
-| Detection Lab | Setup SIEM tools (Splunk/ELK) and performed log analysis | Coming Soon |
-| Phishing Simulation | Simulated a phishing attack chain in Microsoft environment | Coming Soon |
+| SOC Automation Lab | Simulated a SOC workflow with Shuffle SOAR, TheHive, and Cortex | In progress |
+| Detection Lab | Setup SIEM tools (Splunk/ELK) and performed log analysis | In progress |
+| Phishing Simulation | Simulated a phishing attack chain in Microsoft environment | In progress |
 
 ## Tools
 
