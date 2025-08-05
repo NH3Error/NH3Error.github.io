@@ -21,6 +21,10 @@
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 
+  <a href="https://tryhackme.com/p/NH3Error">
+  <img src="https://img.shields.io/badge/TryHackMe-NH3Error-red?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  </a>
+
   <a href="https://tipidpc.com/ratings.php?username=r2xDxD">
   <img src="https://img.shields.io/badge/TIPIDPC-Ratings-green?style=for-the-badge&logo=trustpilot&logoColor=white" />
   </a>
