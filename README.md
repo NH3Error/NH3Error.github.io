@@ -40,7 +40,7 @@
   </a>
 
   <a href="https://tipidpc.com/ratings.php?username=r2xDxD">
-  <img src="https://img.shields.io/badge/TIPIDPC-Ratings-green?style=for-the-badge&logo=trustpilot&logoColor=white" />
+  <img src="https://img.shields.io/badge/TIPIDPC%20Verified%20Seller%20%7C%20Ratings-green?style=for-the-badge&logo=trustpilot&logoColor=white" />
   </a>
 
   </div>
