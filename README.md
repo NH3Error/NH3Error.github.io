@@ -54,8 +54,8 @@ Graduated with a Bachelor of Science in Information Technology and is currently 
 
 | 🏢 Company                                   | 🧑‍💻 Position         | 📍 Location           | 📅 Date                      | 🔗 Website                                 |
 |---------------------------------------------|----------------------|-----------------------|------------------------------|--------------------------------------------|
-| **Lulu Financial Services (Phils.) Inc.**    | IT Administrator     | Taguig, Philippines   | November 2023 – Present      | [lulumoney.com.ph](https://lulumoney.com.ph/) |
-| **R.A. Gapuz Review Center**                 | IT Assistant         | Manila, Philippines   | September 2022 – March 2023  | [raygapuzreviewsystem.com](https://www.raygapuzreviewsystem.com/) |
+| **Lulu Financial Services (Phils.) Inc.**    | IT Administrator     | Taguig, Philippines   | November 2023 – Present      | [https://www.lulumoney.com.ph](https://www.lulumoney.com.ph/) |
+| **R.A. Gapuz Review Center**                 | IT Assistant         | Manila, Philippines   | September 2022 – March 2023  | [https://www.raygapuzreviewsystem.com](https://www.raygapuzreviewsystem.com/) |
 
 
 ## Skills
