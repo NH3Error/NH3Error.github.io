@@ -15,10 +15,18 @@
     <a href="https://linkedin.com/in/abrahampenarubia">
       <img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
+    
 
   <a href="https://www.facebook.com/abrahampenarubia/" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
+
+  <a href="https://tipidpc.com/ratings.php?username=r2xDxD" target="_blank">
+  <button style="padding: 10px 20px; font-size: 16px; background-color: #333; color: white; border: none; border-radius: 5px; cursor: pointer;">
+    View my TIPIDPC Ratings
+  </button>
+  </a>
+
   <br>
 
   <a href="https://drive.google.com/file/d/1iVRxhw7VYnzw8PO3nvvQNCEH68LO7JdA/view?usp=sharing" target="_blank">
