@@ -15,7 +15,6 @@
     <a href="https://linkedin.com/in/abrahampenarubia">
       <img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    
 
   <a href="https://www.facebook.com/abrahampenarubia/" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
@@ -40,7 +39,7 @@
   </a>
 
   <a href="https://tipidpc.com/ratings.php?username=r2xDxD">
-  <img src="https://img.shields.io/badge/TIPIDPC%20Verified%20Seller%20%7C%20Ratings-green?style=for-the-badge&logo=trustpilot&logoColor=white" />
+  <img src="https://img.shields.io/badge/TIPIDPC%20Trusted%20Seller%20%7C%20Ratings-green?style=for-the-badge&logo=trustpilot&logoColor=white" />
   </a>
 
   </div>
