@@ -1,5 +1,63 @@
 # Hello, I'm Abraham Peñarubia | Cybersecurity Portfolio - Aug 2025
 
+<style>
+  /* Default Light Mode */
+  body {
+    background-color: #ffffff;
+    color: #000000;
+    font-family: Arial, sans-serif;
+    transition: background-color 0.3s, color 0.3s;
+  }
+
+  /* Dark mode - auto based on system settings */
+  @media (prefers-color-scheme: dark) {
+    body {
+      background-color: #121212;
+      color: #ffffff;
+    }
+    a {
+      color: #BB86FC;
+    }
+  }
+
+  /* Optional: Profile pic and buttons container styling */
+  .profile-pic {
+    border-radius: 10px;
+    width: 150px;
+    display: block;
+    margin: 20px auto;
+  }
+
+  .container {
+    text-align: center;
+  }
+
+  .buttons a {
+    display: inline-block;
+    margin: 5px;
+  }
+
+  /* Optional toggle dark mode manually */
+  .dark-mode {
+    background-color: #121212 !important;
+    color: #ffffff !important;
+  }
+
+  .toggle-button {
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    background-color: #333;
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    border-radius: 8px;
+    z-index: 999;
+  }
+</style>
+
+
   <!-- Right side: Profile Picture -->
 <img class="profile-pic" src="https://i.imgur.com/oqgSPyFt.jpeg" alt="Profile Picture" />
 
