@@ -27,7 +27,7 @@
 
   <!-- KC7 -->
   <a href="https://kc7cyber.com/profile/2c783cc2" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/KC7-NH3Error-121212?style=for-the-badge" alt="KC7 - NH3Error" />
+    <img src="https://img.shields.io/badge/KC7-NH3Error-121212?style=for-the-badge&logo=microsoftsentinel&logoColor=9FEF00" alt="KC7 - NH3Error" />
   </a>
 
   <br>
