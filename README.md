@@ -5,9 +5,9 @@
 
 <div class="container">
   <div class="buttons">
-  <!-- Portfolio -->
+  <!-- GitHub -->
   <a href="https://github.com/NH3Error">
-    <img src="https://img.shields.io/badge/-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
   <!-- Resume -->
@@ -27,7 +27,7 @@
 
   <!-- KC7 -->
   <a href="https://kc7cyber.com/profile/2c783cc2" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/KC7-NH3Error-121212?style=for-the-badge&logo=microsoftsentinel&logoColor=9FEF00" alt="KC7 - NH3Error" />
+    <img src="https://img.shields.io/badge/KC7-NH3Error-121212?style=for-the-badge&logo=data:image/svg+xml;base64,PASTE_YOUR_BASE64_SVG_HERE" alt="KC7 - NH3Error" />
   </a>
 
   <br>
