@@ -1,4 +1,4 @@
-# Hello, I'm Abraham Peñarubia | Cybersecurity Portfolio - August 2025
+# Hello, I'm Abraham Peñarubia | Cybersecurity Portfolio - Aug 2025
 
   <!-- Right side: Profile Picture -->
 <img class="profile-pic" src="https://i.imgur.com/oqgSPyFt.jpeg" alt="Profile Picture" />
