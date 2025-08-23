@@ -4,52 +4,54 @@
 <img class="profile-pic" src="https://i.imgur.com/oqgSPyFt.jpeg" alt="Profile Picture" />
 
 <div class="container">
-  <!-- Left side: Buttons -->
   <div class="buttons">
-    <a href="https://github.com/NH3Error">
-      <img src="https://img.shields.io/badge/-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-    <a href="https://medium.com/@abrahampenarubia">
-      <img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-    </a>
-    <a href="https://linkedin.com/in/abrahampenarubia">
-      <img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-
-  <a href="https://www.facebook.com/abrahampenarubia/" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  <!-- Portfolio -->
+  <a href="https://github.com/NH3Error">
+    <img src="https://img.shields.io/badge/-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
+  <!-- Resume -->
+  <a href="https://drive.google.com/file/d/1iVRxhw7VYnzw8PO3nvvQNCEH68LO7JdA/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-Google%20Drive-34A853?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
+  </a>
+
+  <!-- Hack The Box -->
   <a href="https://app.hackthebox.com/profile/2052578" target="_blank">
-  <img src="https://img.shields.io/badge/Hack%20The%20Box-NH3Error-121212?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" />
+    <img src="https://img.shields.io/badge/Hack%20The%20Box-NH3Error-121212?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" />
   </a>
 
+  <!-- TryHackMe -->
   <a href="https://tryhackme.com/p/NH3Error" target="_blank">
-  <img src="https://img.shields.io/badge/TryHackMe-NH3Error-2C2C2C?style=for-the-badge&logo=tryhackme&logoColor=FF1F1F" />
+    <img src="https://img.shields.io/badge/TryHackMe-NH3Error-2C2C2C?style=for-the-badge&logo=tryhackme&logoColor=FF1F1F" />
   </a>
 
+  <!-- KC7 -->
   <a href="https://kc7cyber.com/profile/2c783cc2" target="_blank" rel="noopener">
-  <img 
-    src="https://img.shields.io/badge/KC7-NH3Error-121212?style=for-the-badge" 
-    alt="KC7 - NH3Error" />
+    <img src="https://img.shields.io/badge/KC7-NH3Error-121212?style=for-the-badge" alt="KC7 - NH3Error" />
   </a>
 
   <br>
 
-  <a href="https://drive.google.com/file/d/1iVRxhw7VYnzw8PO3nvvQNCEH68LO7JdA/view?usp=sharing" target="_blank">
-  <img src="https://img.shields.io/badge/Resume-Google%20Drive-34A853?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
+  <!-- Medium -->
+  <a href="https://medium.com/@abrahampenarubia">
+    <img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
 
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/abrahampenarubia">
+    <img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <!-- Email -->
   <a href="mailto:abrahampenarubia@gmail.com">
-  <img src="https://img.shields.io/badge/Email-abrahampenarubia@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-abrahampenarubia@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
+  <!-- TipidPC -->
   <a href="https://tipidpc.com/ratings.php?username=r2xDxD">
-  <img src="https://img.shields.io/badge/TIPIDPC%20Trusted%20Seller%20%7C%20Ratings-green?style=for-the-badge&logo=trustpilot&logoColor=white" />
+    <img src="https://img.shields.io/badge/TIPIDPC%20Trusted%20Seller%20%7C%20Ratings-green?style=for-the-badge&logo=trustpilot&logoColor=white" />
   </a>
-
   </div>
-
 </div>
 
 ## Summary
