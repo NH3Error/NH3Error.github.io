@@ -1,4 +1,4 @@
-# Hello, I'm Abraham Peñarubia | Cybersecurity Portfolio - Aug 2025
+# Hello, I'm Abraham Peñarubia | Cybersecurity Portfolio - August 2025
 
   <!-- Right side: Profile Picture -->
 <img class="profile-pic" src="https://i.imgur.com/oqgSPyFt.jpeg" alt="Profile Picture" />
@@ -55,7 +55,7 @@
 </div>
 
 ## Summary
-Graduated with a Bachelor of Science in Information Technology and is currently working as an IT Administrator at a financial institution. Actively transitioning into cybersecurity roles, with a focus on Blue Team operations.
+Graduated with a Bachelor of Science in Information Technology and is currently working as an IT Administrator at a financial institution. A self-taught Cybersecurity Analyst with hands-on experience in Incident Response using Splunk, ELK, and Microsoft Sentinel. Possesses foundational skills in DFIR, malware analysis, threat hunting, and detection engineering with growing expertise in email phishing analysis. Actively transitioning into a full-time cybersecurity role, with a strong focus on Blue Team operations.
 
 ## Work Experiences
 
