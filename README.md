@@ -28,6 +28,12 @@
   <img src="https://img.shields.io/badge/TryHackMe-NH3Error-2C2C2C?style=for-the-badge&logo=tryhackme&logoColor=FF1F1F" />
   </a>
 
+  <a href="https://kc7cyber.com/profile/2c783cc2" target="_blank" rel="noopener">
+  <img 
+    src="https://img.shields.io/badge/KC7-NH3Error-121212?style=for-the-badge" 
+    alt="KC7 - NH3Error" />
+  </a>
+
   <br>
 
   <a href="https://drive.google.com/file/d/1iVRxhw7VYnzw8PO3nvvQNCEH68LO7JdA/view?usp=sharing" target="_blank">
