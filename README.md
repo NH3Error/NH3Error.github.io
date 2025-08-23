@@ -38,8 +38,8 @@
   </a>
 
   <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/abrahampenarubia">
-    <img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/abrahampenarubia" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
   <!-- Email -->
