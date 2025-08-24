@@ -42,6 +42,11 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/abrahampenarubia/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /> 
+  </a>
+
   <!-- Email -->
   <a href="mailto:abrahampenarubia@gmail.com">
     <img src="https://img.shields.io/badge/Email-abrahampenarubia@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
