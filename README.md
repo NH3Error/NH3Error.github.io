@@ -7,6 +7,13 @@
        style="width:150px;height:150px;border-radius:50%;object-fit:cover;border:2px solid #e5e7eb;box-shadow:0 6px 16px rgba(0,0,0,.15);" />
 </p>
 
+<p align="center">
+  <img src="https://i.imgur.com/sC3Yalf.png"
+       alt="Profile photo"
+       style="width:150px;height:150px;border-radius:50%;object-fit:cover;" />
+</p>
+
+
 <div class="container">
   <div class="buttons">
   <!-- GitHub -->
