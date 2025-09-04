@@ -6,7 +6,7 @@
   <img src="https://i.imgur.com/sC3Yalf.png"
        alt="Profile photo"
        style="width:150px;height:150px;border-radius:50%;object-fit:cover;object-position:center;border:2px solid #e5e7eb;box-shadow:0 6px 16px rgba(0,0,0,.15);" />
-  <sup> This photo was taken at Fort Santiago, Manila. A historical site where Philippine national hero José Rizal was imprisoned before his execution in 1896.</sup>
+  <sup> My photo was taken at Fort Santiago, Manila. A historic landmark tied to Philippine national hero José Rizal.</sup>
 
 </div>
 
