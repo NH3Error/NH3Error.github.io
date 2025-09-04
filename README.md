@@ -1,6 +1,10 @@
 # Hello, I'm Abraham Peñarubia | Cybersecurity Portfolio - Sep 2025
 
   <!-- Profile Picture -->
+<img class="profile-pic" 
+     src="https://i.imgur.com/sC3Yalf.png" 
+     alt="Profile Picture" 
+     style="width:150px; height:auto; border-radius:50%;" />
 
 
 <div class="container">
