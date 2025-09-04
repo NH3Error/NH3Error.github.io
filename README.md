@@ -6,6 +6,11 @@
      alt="Profile Picture" 
      style="width:150px; height:auto; border-radius:50%;" />
 
+     <p align="center" style="font-size:14px;color:#555;">
+  <strong>This picture was taken at Fort Santiago, Intramuros, Manila.</strong><br/>
+  The historic site where Philippine national hero José Rizal was imprisoned before his execution in 1896.
+</p>
+
 
 <div class="container">
   <div class="buttons">
