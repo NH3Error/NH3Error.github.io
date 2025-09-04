@@ -6,8 +6,7 @@
   <img src="https://i.imgur.com/sC3Yalf.png"
        alt="Profile photo"
        style="width:150px;height:150px;border-radius:50%;object-fit:cover;object-position:center;border:2px solid #e5e7eb;box-shadow:0 6px 16px rgba(0,0,0,.15);" />
-  <small>
-    <strong>This picture was taken at Fort Santiago, Intramuros, Manila.</strong><br/>
+  <small> This picture was taken at Fort Santiago, Intramuros, Manila.
     The historic site where Philippine national hero José Rizal was imprisoned before his execution in 1896.
   </small>
 
