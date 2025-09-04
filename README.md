@@ -4,7 +4,8 @@
 <img class="profile-pic" 
      src="https://drive.google.com/uc?export=view&id=16prQ_uAWMiEgrupBRMr_gmCEvk-MYa6t" 
      alt="Profile Picture" 
-     style="width:150px; height:150px; object-fit:cover; border-radius:50%;" />
+     style="width:150px; height:150px; border-radius:50%; object-fit:cover;" />
+
 
 <div class="container">
   <div class="buttons">
