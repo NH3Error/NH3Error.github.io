@@ -1,7 +1,7 @@
 # Hello, I'm Abraham Peñarubia | Cybersecurity Portfolio - Sep 2025
 
   <!-- Profile Picture -->
-<img class="profile-pic" src="https://scontent.fmnl17-1.fna.fbcdn.net/v/t39.30808-1/541353887_1721125801872517_4460438905931118522_n.jpg?stp=dst-jpg_s480x480_tt6&_nc_cat=101&ccb=1-7&_nc_sid=e99d92&_nc_eui2=AeHn8UHyydv3ztu7FgDKJHVDfKMewNGZR5B8ox7A0ZlHkII_5b3Y9ar6CotcBDKYkJPgm2vVICQ-JPYF488c6R3C&_nc_ohc=LIJwP2mgH-wQ7kNvwHdHDbm&_nc_oc=AdmCLVOmZqY_TRgGlchxkYghjLDOpDwScEa16jVI-1_nNUL0ZRg7el_bwQBjzKVCr_Q&_nc_zt=24&_nc_ht=scontent.fmnl17-1.fna&_nc_gid=erXryQvM6iuBTJM3CUPHfQ&oh=00_AfWkV5RqmGnqFyn-wQHRyMZ8sj1lyC5mMIw_oh81s-Zh0Q&oe=68B80F7C" alt="Profile Picture" style="width:150px; height:auto; border-radius:50%;" />
+<img class="profile-pic" src="https://drive.google.com/uc?export=view&id=16prQ_uAWMiEgrupBRMr_gmCEvk-MYa6t" alt="Profile Picture" style="width:150px; height:auto; border-radius:50%;" />
 
 <div class="container">
   <div class="buttons">
