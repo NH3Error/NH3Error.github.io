@@ -6,7 +6,7 @@
   <img src="https://i.imgur.com/sC3Yalf.png"
        alt="Profile photo"
        style="width:150px;height:150px;border-radius:50%;object-fit:cover;object-position:center;border:2px solid #e5e7eb;box-shadow:0 6px 16px rgba(0,0,0,.15);" />
-  <sup> My photo was taken at Fort Santiago, Manila. A historic landmark tied to Philippine national hero José Rizal.</sup>
+  <sup> My photo was taken at Fort Santiago, Manila — a historic landmark and a must-visit destination.</sup>
 
 </div>
 
