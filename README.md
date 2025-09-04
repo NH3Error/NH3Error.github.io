@@ -1,9 +1,11 @@
 # Hello, I'm Abraham Peñarubia | Cybersecurity Portfolio - Sep 2025
 
   <!-- Profile Picture -->
-<img src="https://drive.google.com/uc?export=view&id=16prQ_uAWMiEgrupBRMr_gmCEvk-MYa6t"
-     alt="Profile Picture"
-     style="width:150px; height:150px; border-radius:50%; object-fit:cover;" />
+<div style="display:flex; justify-content:center; align-items:center; margin-top:20px;">
+  <img src="https://drive.google.com/uc?export=view&id=16prQ_uAWMiEgrupBRMr_gmCEvk-MYa6t"
+       alt="Profile Picture"
+       style="width:150px; height:150px; border-radius:50%; object-fit:cover;" />
+</div>
 
 
 
