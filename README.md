@@ -69,7 +69,7 @@
 </div>
 
 ## Summary
-Hi. I'm an IT professional with a Bachelor of Science in Information Technology degree, currently working as an IT Administrator at a financial institution. <br> A self-taught Cybersecurity Analyst with hands-on experience in Incident Response using Microsoft Sentinel, Splunk, and ELK Stack. Possesses foundational skills in DFIR, malware analysis, threat hunting, and detection engineering, with growing expertise in email phishing analysis. Actively transitioning into a full-time cybersecurity role with a strong focus on Blue Team operations.
+Hi. I'm an IT professional with a Bachelor of Science in Information Technology degree, currently working as an IT Administrator at a financial institution. I'm a self-taught Cybersecurity Analyst with hands-on experience in Incident Response using Microsoft Sentinel, Splunk, and ELK Stack. Possesses foundational skills in DFIR, malware analysis, threat hunting, and detection engineering, with growing expertise in email phishing analysis.Actively seeking a full-time cybersecurity role with a strong focus on Blue Team operations. Feel free to reach out regarding relevant opportunities. Thank you so much.
 
 ## Work Experiences
 
