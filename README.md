@@ -6,7 +6,7 @@
   <img src="https://i.imgur.com/sC3Yalf.png"
        alt="Profile photo"
        style="width:150px;height:150px;border-radius:50%;object-fit:cover;object-position:center;border:2px solid #e5e7eb;box-shadow:0 6px 16px rgba(0,0,0,.15);" />
-  <sup> ← My photo was taken at Fort Santiago, a historic landmark in Manila.</sup>
+  <sup>     ← My photo was taken at Fort Santiago, a historic landmark in Manila.</sup>
 
 </div>
 
@@ -69,7 +69,7 @@
 </div>
 
 ## Summary
-Hi. I'm an IT professional with a Bachelor of Science in Information Technology degree, currently working as an IT Administrator at a financial institution. I'm a self-taught Cybersecurity Analyst with hands-on experience in Incident Response using Microsoft Sentinel, Splunk, and ELK Stack. Possesses foundational skills in DFIR, malware analysis, threat hunting, and detection engineering, with growing expertise in email phishing analysis.<br><br>Actively seeking a full-time cybersecurity role with a strong focus on Blue Team defensive operations, including incident response, information security, security engineering, and SOC analysis. Feel free to reach out to me regarding relevant opportunities. Thank you.
+Hi. I'm an IT professional with a Bachelor of Science in Information Technology degree, currently working as an IT Administrator at a financial institution. I'm a self-taught Cybersecurity Analyst with hands-on experience in Incident Response using Microsoft Sentinel, Splunk, and ELK Stack. Possesses foundational skills in DFIR, malware analysis, threat hunting, and detection engineering, with growing expertise in email phishing analysis.<br><br>Actively seeking a full-time cybersecurity role with a strong focus on Blue Team defensive operations, including incident response, information security, security engineering, and SOC analysis. Feel free to reach out to me regarding relevant opportunities. Thank you so much.
 
 ## Work Experiences
 
